@@ -70,8 +70,8 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ## Contact
 For questions or collaboration, reach out via:
-- **Email**: [neelalohitk@gmail.com]
-- **LinkedIn**: [https://www.linkedin.com/in/neelalohit-korlhalli/]
+- **Email**: neelalohitk@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/neelalohit-korlhalli/
 
 ---
 
