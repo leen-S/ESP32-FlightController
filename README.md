@@ -4,6 +4,7 @@
 
 This repository contains all the necessary files for the **ESP32 Flight Controller** project. Designed for educational and practical purposes, this project showcases how an ESP32 microcontroller can be used to develop a flight controller. It includes firmware, schematics, PCB designs, and manufacturing files to bring the project to life.
 
+![image alt](https://github.com/leen-S/ESP32-FlightController/blob/3d8469d0caf29110d258e8f79a5221c18e0c0ba8/PCBLayout.jpg)
 ---
 
 ## Repository Structure
