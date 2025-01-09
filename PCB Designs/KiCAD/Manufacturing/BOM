@@ -1,0 +1,8 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"D1","LED","~","LED_THT:LED_D3.0mm","1",""
+"J1,J2,J3,J4","Conn_01x03_Pin","~","Connector_PinHeader_2.54mm:PinHeader_1x03_P2.54mm_Vertical","4",""
+"J5","Conn_01x06_Pin","~","Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical","1",""
+"J6","Conn_01x02_Pin","~","Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical","1",""
+"J7","Conn_01x08_Socket","~","Connector_PinSocket_2.54mm:PinSocket_1x08_P2.54mm_Vertical","1",""
+"R1","220","~","Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal","1",""
+"U1","ESP32_DevKit_V1_DOIT","https://aliexpress.com/item/32864722159.html","esp32_devkit_v1_doit:esp32_devkit_v1_doit","1",""
